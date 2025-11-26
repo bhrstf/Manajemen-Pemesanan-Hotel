@@ -1,6 +1,3 @@
-Tentu, berikut adalah draf file `README.md` dalam format *raw markdown* untuk proyek **Manajemen Pemesanan Hotel**.
-
-```markdown
 # 🏨 Manajemen-Pemesanan-Hotel
 
 Proyek ini adalah implementasi sistem manajemen basis data untuk operasional pemesanan hotel, mulai dari data tamu, kamar, reservasi, hingga layanan tambahan. Sistem ini dirancang untuk menunjukkan kapabilitas basis data lanjutan (seperti *Stored Procedure*, *Trigger*, dan *View*) serta dilengkapi dengan fitur *web scraping* eksternal untuk analisis harga kompetitor.
